@@ -6,8 +6,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with a strong 
 
 ## 🌟 About Me
 
-- 🔭 Currently working on **Swift Space**, a revolutionary real estate navigation and management app.
-- 🌱 Learning and experimenting with **Flutter** and **Nest.js** for modular app development.
+- 🚀 Passionate Full-Stack Developer | 🌐 Real Estate Tech Enthusiast | 🎓 Lifelong Learner
 - 👯 Looking to collaborate on **educational technology** projects and **real estate** solutions.
 - 💬 Ask me about **ReactJS, NestJS, NodeJS**, and **AI-powered applications**.
 - 📫 Reach me at: [joel.odufu@gmail.com](mailto:joel.odufu@gmail.com)
