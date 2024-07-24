@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! I'm a passionate software developer with a strong background in full-stack development, real estate technology, and educational tech solutions. Here, you'll find a collection of my projects, contributions, and experiments.
 
-![Profile Banner]([https://your-image-link.com](https://scontent.fabv2-2.fna.fbcdn.net/v/t39.30808-6/451718015_7296460133788880_3592015159402094107_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeEqpp649r42SPnEyk-efkkI9KvtWc6K5sz0q-1ZzormzJ_arpa-Hbg8vDHiy4--w8t_guuqASwFaWgs8WVe4rQp&_nc_ohc=W1WfVlQoa-IQ7kNvgFwN8bt&_nc_zt=23&_nc_ht=scontent.fabv2-2.fna&oh=00_AYAT4o4PvjLDc8b6on4ilR0XKzmR0i5XhNvicCXgDn3wdw&oe=66A07D43)) <!-- Replace with a banner image that represents you or your work -->
+![Profile Banner](https://firebasestorage.googleapis.com/v0/b/joellee-fb42c.appspot.com/o/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner%20(1).png?alt=media&token=877e909b-4d25-43fc-b2bf-90a758b98865) <!-- Replace with a banner image that represents you or your work -->
 
 ## 🌟 About Me
 
